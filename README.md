@@ -1,9 +1,4 @@
 Hi, I’m @serdartas
-- 👀 I’m interested in algorithms and data structures alongside with some relational database stuff
-- 🌱 I’m currently learning Java Springboot
-- 📫 To reach me, you can drop an email to serdartas@hotmail.com 
+I've devloped software almost my entire life. I've been through early days as well. I started my journey with [GW Basic](https://en.wikipedia.org/wiki/GW-BASIC).
 
-<!---
-serdartas/serdartas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am interested in any kind of software development. 
